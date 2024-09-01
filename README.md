@@ -1,4 +1,4 @@
-# Transaction Simplified - A Robust Backend Solution with Spring Boot & Kafka
+# Transaction Simplified - Backend Solution with Spring Boot & Kafka
 
 ## Description
 
