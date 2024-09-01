@@ -65,4 +65,4 @@ This project presents a simplified yet fully functional backend system inspired 
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/Leupesquisa/transaction-simplified.git
-   cd Transaction-simplified-backend
+   cd transaction-simplified
